@@ -1,0 +1,22 @@
+{
+  "domain": "go.bbkane.com",
+  "docsDomain": "pkg.go.dev",
+  "repositories": [
+    {
+      "prefix": "gobbkanelib",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/gobbkanelib",
+      "source": {
+        "home": "https://github.com/bbkane/gobbkanelib",
+        "dir": "https://github.com/bbkane/gobbkanelib/tree/master{/dir}",
+        "file": "https://github.com/bbkane/gobbkanelib/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/gobbkanelib"
+      }
+    }
+  ]
+}
