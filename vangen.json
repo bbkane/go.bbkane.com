@@ -17,6 +17,22 @@
       "website": {
         "url": "https://github.com/bbkane/gobbkanecomlib"
       }
+    },
+    {
+      "prefix": "starghaze",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/starghaze",
+      "source": {
+        "home": "https://github.com/bbkane/starghaze",
+        "dir": "https://github.com/bbkane/starghaze/tree/master{/dir}",
+        "file": "https://github.com/bbkane/starghaze/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/starghaze"
+      }
     }
   ]
 }
