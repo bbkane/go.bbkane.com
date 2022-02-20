@@ -69,6 +69,17 @@
     {
       "prefix": "warg",
       "subs": [
+        "command",
+        "config",
+        "config/jsonreader",
+        "config/tokenize",
+        "config/yamlreader",
+        "examples",
+        "examples/butler",
+        "flag",
+        "help",
+        "section",
+        "value"
       ],
       "type": "git",
       "hidden": false,
