@@ -35,7 +35,7 @@
       }
     },
     {
-      "prefix": "grabbit",
+      "prefix": "grabbit/v4",
       "subs": [
       ],
       "type": "git",
