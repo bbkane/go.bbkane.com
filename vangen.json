@@ -3,19 +3,51 @@
   "docsDomain": "pkg.go.dev",
   "repositories": [
     {
-      "prefix": "gobbkanecomlib",
+      "prefix": "fling",
       "subs": [
       ],
       "type": "git",
       "hidden": false,
-      "url": "https://github.com/bbkane/gobbkanecomlib",
+      "url": "https://github.com/bbkane/fling",
       "source": {
-        "home": "https://github.com/bbkane/gobbkanecomlib",
-        "dir": "https://github.com/bbkane/gobbkanecomlib/tree/master{/dir}",
-        "file": "https://github.com/bbkane/gobbkanecomlib/blob/master{/dir}/{file}#L{line}"
+        "home": "https://github.com/bbkane/fling",
+        "dir": "https://github.com/bbkane/fling/tree/master{/dir}",
+        "file": "https://github.com/bbkane/fling/blob/master{/dir}/{file}#L{line}"
       },
       "website": {
-        "url": "https://github.com/bbkane/gobbkanecomlib"
+        "url": "https://github.com/bbkane/fling"
+      }
+    },
+    {
+      "prefix": "gocolor",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/gocolor",
+      "source": {
+        "home": "https://github.com/bbkane/gocolor",
+        "dir": "https://github.com/bbkane/gocolor/tree/master{/dir}",
+        "file": "https://github.com/bbkane/gocolor/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/gocolor"
+      }
+    },
+    {
+      "prefix": "grabbit",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/grabbit",
+      "source": {
+        "home": "https://github.com/bbkane/grabbit",
+        "dir": "https://github.com/bbkane/grabbit/tree/master{/dir}",
+        "file": "https://github.com/bbkane/grabbit/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/grabbit"
       }
     },
     {
@@ -32,6 +64,22 @@
       },
       "website": {
         "url": "https://github.com/bbkane/starghaze"
+      }
+    },
+    {
+      "prefix": "warg",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/warg",
+      "source": {
+        "home": "https://github.com/bbkane/warg",
+        "dir": "https://github.com/bbkane/warg/tree/master{/dir}",
+        "file": "https://github.com/bbkane/warg/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/warg"
       }
     }
   ]
