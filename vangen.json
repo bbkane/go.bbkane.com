@@ -51,6 +51,22 @@
       }
     },
     {
+      "prefix": "logos",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/logos",
+      "source": {
+        "home": "https://github.com/bbkane/logos",
+        "dir": "https://github.com/bbkane/logos/tree/master{/dir}",
+        "file": "https://github.com/bbkane/logos/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/logos"
+      }
+    },
+    {
       "prefix": "starghaze",
       "subs": [
       ],
