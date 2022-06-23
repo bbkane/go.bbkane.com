@@ -83,6 +83,22 @@
       }
     },
     {
+      "prefix": "tablegraph",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/tablegraph",
+      "source": {
+        "home": "https://github.com/bbkane/tablegraph",
+        "dir": "https://github.com/bbkane/tablegraph/tree/master{/dir}",
+        "file": "https://github.com/bbkane/tablegraph/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/tablegraph"
+      }
+    },
+    {
       "prefix": "warg",
       "subs": [
         "command",
