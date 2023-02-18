@@ -3,6 +3,22 @@
   "docsDomain": "pkg.go.dev",
   "repositories": [
     {
+      "prefix": "example-go-cli",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/example-go-cli",
+      "source": {
+        "home": "https://github.com/bbkane/example-go-cli",
+        "dir": "https://github.com/bbkane/example-go-cli/tree/master{/dir}",
+        "file": "https://github.com/bbkane/example-go-cli/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/example-go-cli"
+      }
+    },
+    {
       "prefix": "fling",
       "subs": [
       ],
