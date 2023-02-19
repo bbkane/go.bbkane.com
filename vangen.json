@@ -114,6 +114,22 @@
         "url": "https://github.com/bbkane/tablegraph"
       }
     },
+      {
+      "prefix": "taggedmarks2",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/taggedmarks2",
+      "source": {
+        "home": "https://github.com/bbkane/taggedmarks2",
+        "dir": "https://github.com/bbkane/taggedmarks2/tree/master{/dir}",
+        "file": "https://github.com/bbkane/taggedmarks2/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/taggedmarks2"
+      }
+    },
     {
       "prefix": "warg",
       "subs": [
