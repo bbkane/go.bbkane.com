@@ -35,6 +35,22 @@
       }
     },
     {
+      "prefix": "go-repo-janitor",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/go-repo-janitor",
+      "source": {
+        "home": "https://github.com/bbkane/go-repo-janitor",
+        "dir": "https://github.com/bbkane/go-repo-janitor/tree/master{/dir}",
+        "file": "https://github.com/bbkane/go-repo-janitor/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/go-repo-janitor"
+      }
+    },
+    {
       "prefix": "gocolor",
       "subs": [
       ],
