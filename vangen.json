@@ -99,6 +99,22 @@
       }
     },
     {
+      "prefix": "shovel",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/shovel",
+      "source": {
+        "home": "https://github.com/bbkane/shovel",
+        "dir": "https://github.com/bbkane/shovel/tree/master{/dir}",
+        "file": "https://github.com/bbkane/shovel/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/shovel"
+      }
+    },
+    {
       "prefix": "starghaze",
       "subs": [
       ],
