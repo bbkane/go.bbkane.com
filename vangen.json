@@ -99,6 +99,22 @@
       }
     },
     {
+      "prefix": "namedenv",
+      "subs": [
+      ],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/namedenv",
+      "source": {
+        "home": "https://github.com/bbkane/namedenv",
+        "dir": "https://github.com/bbkane/namedenv/tree/master{/dir}",
+        "file": "https://github.com/bbkane/namedenv/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/namedenv"
+      }
+    },
+    {
       "prefix": "shovel",
       "subs": [
       ],
