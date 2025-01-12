@@ -4,8 +4,7 @@
   "repositories": [
     {
       "prefix": "example-go-cli",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/example-go-cli",
@@ -20,8 +19,7 @@
     },
     {
       "prefix": "fling",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/fling",
@@ -36,8 +34,7 @@
     },
     {
       "prefix": "go-repo-janitor",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/go-repo-janitor",
@@ -52,8 +49,7 @@
     },
     {
       "prefix": "gocolor",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/gocolor",
@@ -68,8 +64,7 @@
     },
     {
       "prefix": "grabbit/v4",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/grabbit",
@@ -84,8 +79,7 @@
     },
     {
       "prefix": "logos",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/logos",
@@ -100,8 +94,7 @@
     },
     {
       "prefix": "namedenv",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/namedenv",
@@ -116,8 +109,7 @@
     },
     {
       "prefix": "shovel",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/shovel",
@@ -132,8 +124,7 @@
     },
     {
       "prefix": "starghaze",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/starghaze",
@@ -148,8 +139,7 @@
     },
     {
       "prefix": "tablegraph",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/tablegraph",
@@ -162,10 +152,9 @@
         "url": "https://github.com/bbkane/tablegraph"
       }
     },
-      {
+    {
       "prefix": "taggedmarks2",
-      "subs": [
-      ],
+      "subs": [],
       "type": "git",
       "hidden": false,
       "url": "https://github.com/bbkane/taggedmarks2",
