@@ -38,6 +38,10 @@ def main():
     site = "go.bbkane.com"
     vangen_config = "./vangen.json"
 
+    if shutil.which("vangen") is None:
+        print("Please install vangen")
+        sys.exit(1)
+
     shutil.rmtree(build_dir)
     subprocess.run(["vangen", f"-out={build_dir}"])
 

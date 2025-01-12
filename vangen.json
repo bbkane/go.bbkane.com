@@ -168,6 +168,21 @@
       }
     },
     {
+      "prefix": "toddlerevents",
+      "subs": [],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/toddlerevents",
+      "source": {
+        "home": "https://github.com/bbkane/toddlerevents",
+        "dir": "https://github.com/bbkane/toddlerevents/tree/master{/dir}",
+        "file": "https://github.com/bbkane/toddlerevents/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/toddlerevents"
+      }
+    },
+    {
       "prefix": "warg",
       "subs": [
         "command",

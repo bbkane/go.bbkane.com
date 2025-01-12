@@ -2,23 +2,22 @@ Vanity import paths:
 
 https://sagikazarmark.hu/blog/vanity-import-paths-in-go/
 
-- Get a lib - done
-- Get a static site - done
-- Host in GitHub pages
 
-## Vangen Notes
+## [Vangen](https://github.com/leighmcculloch/vangen) Notes
 
-repositories[].prefix is the name of the packages
-repositories[].subs[] is the name of subpackages
+Install:
 
-It doesn't seem to generate a root index.html...
-
-GitHub Pages only wants to publish from / or /docs/ so let's use:
-
-```
-vangen -out=docs/
+```bash
+go install 4d63.com/vangen@latest
 ```
 
-I think I need to wait until 5PM Sunday for HTTPS to work.
+`repositories[].prefix` is the name of the packages
 
-GitHub might also not be happy with me using a subdomain for this? I need bbkane.com to point to netlify
+`repositories[].subs[]` is the list of subpackages
+
+# Run
+
+```bash
+ export PATH="$HOME/go/bin:$PATH"
+ ./build.py
+ ```
