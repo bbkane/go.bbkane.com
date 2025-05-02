@@ -3,6 +3,21 @@
   "docsDomain": "pkg.go.dev",
   "repositories": [
     {
+      "prefix": "enventory",
+      "subs": [],
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/bbkane/enventory",
+      "source": {
+        "home": "https://github.com/bbkane/enventory",
+        "dir": "https://github.com/bbkane/enventory/tree/master{/dir}",
+        "file": "https://github.com/bbkane/enventory/blob/master{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/bbkane/enventory"
+      }
+    },
+    {
       "prefix": "example-go-cli",
       "subs": [],
       "type": "git",

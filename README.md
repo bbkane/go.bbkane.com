@@ -18,6 +18,5 @@ go install 4d63.com/vangen@latest
 # Run
 
 ```bash
- export PATH="$HOME/go/bin:$PATH"
- ./build.py
+ PATH="$HOME/go/bin:$PATH" ./build.py
  ```
