@@ -108,18 +108,18 @@
       }
     },
     {
-      "prefix": "namedenv",
+      "prefix": "motel",
       "subs": [],
       "type": "git",
       "hidden": false,
-      "url": "https://github.com/bbkane/namedenv",
+      "url": "https://github.com/bbkane/motel",
       "source": {
-        "home": "https://github.com/bbkane/namedenv",
-        "dir": "https://github.com/bbkane/namedenv/tree/master{/dir}",
-        "file": "https://github.com/bbkane/namedenv/blob/master{/dir}/{file}#L{line}"
+        "home": "https://github.com/bbkane/motel",
+        "dir": "https://github.com/bbkane/motel/tree/master{/dir}",
+        "file": "https://github.com/bbkane/motel/blob/master{/dir}/{file}#L{line}"
       },
       "website": {
-        "url": "https://github.com/bbkane/namedenv"
+        "url": "https://github.com/bbkane/motel"
       }
     },
     {
