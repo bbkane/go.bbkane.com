@@ -78,7 +78,7 @@
       }
     },
     {
-      "prefix": "grabbit/v4",
+      "prefix": "grabbit/v5",
       "subs": [],
       "type": "git",
       "hidden": false,
